@@ -1,0 +1,1 @@
+your typical switch statement
